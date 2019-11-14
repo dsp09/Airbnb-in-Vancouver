@@ -1,5 +1,5 @@
 # Airbnb-in-Vancouver
-Machine learning project exploring Airbnb data in Vancouver
+Machine learning project exploring Airbnb rental data in Vancouver
 
 ![](v1.png)
 
