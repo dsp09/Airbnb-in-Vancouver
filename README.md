@@ -1,6 +1,6 @@
 # Airbnb-in-Vancouver
 
-Unofficial code for paper "The What, Where, and Why of Airbnb Price Determinants"
+Implementation of the paper "The What, Where, and Why of Airbnb Price Determinants"
 
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
